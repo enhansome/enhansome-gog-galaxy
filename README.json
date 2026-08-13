@@ -1,0 +1,331 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Alternative clients",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniGalaxy",
+              "description": "by @sharkwouter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T06:57:14Z",
+                "owner": "sharkwouter",
+                "repo": "minigalaxy",
+                "stars": 1325
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Shortcut Creators",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GOG Galaxy 2.0 Shortcut Creator",
+              "description": "by @Megalex42",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2020-04-14T10:09:04Z",
+                "owner": "OlivierGagnon",
+                "repo": "GOG-Galaxy-2.0-Shortcut-Creator",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Integration Updaters",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GOG Integration Updater",
+              "description": "by @Slashbunny",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-20T12:10:43Z",
+                "owner": "Slashbunny",
+                "repo": "gog-galaxy-plugin-downloader",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GOG Galaxy 2.0 Integrations Scoop Bucket",
+              "description": "by @Borger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PowerShell",
+                "last_commit": "2026-07-20T16:34:44Z",
+                "owner": "borger",
+                "repo": "scoop-galaxy-integrations",
+                "stars": 184
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Data import/export",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GOG Galaxy Export Script",
+              "description": "by @AB1908",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-12-23T23:29:27Z",
+                "owner": "AB1908",
+                "repo": "GOG-Galaxy-Export-Script",
+                "stars": 170
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Library comparison",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GOG Galaxy Library Compare (gamatrix-gog)",
+              "description": "by @eniklas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-09T03:35:09Z",
+                "owner": "eniklas",
+                "repo": "gamatrix",
+                "stars": 14
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unofficial GOG.com API docs https://github.com/Yepoleb/gogapidocs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-20T06:37:09Z",
+            "owner": "Yepoleb",
+            "repo": "gogapidocs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "GOG Galaxy Integrations Python API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github repository https://github.com/gogcom/galaxy-integrations-python-api",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Galaxy Utils from @tylerbrawl https://github.com/tylerbrawl/Galaxy-Utils",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-01-01T23:05:13Z",
+                "owner": "tylerbrawl",
+                "repo": "Galaxy-Utils",
+                "stars": 9
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Completed",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Integrations search and management (1",
+              "description": ", 2, 3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adding tags from the API (1",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Parametrized game launch (1",
+              "description": ", 2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "In backlog / In progress",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chat and friends list for integrations (1",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DLC management (1",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Secret achievements (1",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Will be considered",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Custom platforms (1",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Game language management (1",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-29T08:27:05Z",
+                "owner": "gogcom",
+                "repo": "galaxy-integrations-python-api",
+                "stars": 1337
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Galaxy 2.0 Upcoming features"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:32.250Z",
+    "original_repository": "Mixaill/awesome-gog-galaxy",
+    "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
+    "enhanced_repository": "enhansome/enhansome-gog-galaxy",
+    "enhanced_repository_description": null,
+    "title": "Awesome GOG Galaxy with stars"
+  }
+}
