@@ -96,7 +96,7 @@
                 "last_commit": "2022-12-23T23:29:27Z",
                 "owner": "AB1908",
                 "repo": "GOG-Galaxy-Export-Script",
-                "stars": 170
+                "stars": 171
               }
             }
           ]
@@ -158,7 +158,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -199,7 +199,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -213,7 +213,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             }
           ]
@@ -248,7 +248,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             }
           ]
@@ -297,7 +297,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -311,7 +311,7 @@
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337
+                "stars": 1338
               }
             }
           ]
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:45:50.856Z",
+    "last_updated": "2026-08-14T07:43:33.532Z",
     "original_repository": "Mixaill/awesome-gog-galaxy",
     "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
     "enhanced_repository": "enhansome/enhansome-gog-galaxy",
