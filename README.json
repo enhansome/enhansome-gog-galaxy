@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163598129,
                 "language": "Python",
                 "last_commit": "2026-08-07T06:57:14Z",
                 "owner": "sharkwouter",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 231852572,
                 "language": "C#",
                 "last_commit": "2020-04-14T10:09:04Z",
                 "owner": "OlivierGagnon",
@@ -57,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 213022221,
                 "language": "Python",
                 "last_commit": "2024-08-20T12:10:43Z",
                 "owner": "Slashbunny",
@@ -71,6 +74,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 212009506,
                 "language": "PowerShell",
                 "last_commit": "2026-07-20T16:34:44Z",
                 "owner": "borger",
@@ -92,6 +96,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 253785344,
                 "language": "Python",
                 "last_commit": "2022-12-23T23:29:27Z",
                 "owner": "AB1908",
@@ -113,6 +118,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 308808638,
                 "language": "Python",
                 "last_commit": "2026-08-09T03:35:09Z",
                 "owner": "eniklas",
@@ -126,7 +132,7 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -135,6 +141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76056797,
             "language": "Python",
             "last_commit": "2022-09-20T06:37:09Z",
             "owner": "Yepoleb",
@@ -154,6 +161,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -168,6 +176,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 224289565,
                 "language": "Python",
                 "last_commit": "2020-01-01T23:05:13Z",
                 "owner": "tylerbrawl",
@@ -181,7 +190,7 @@
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -195,6 +204,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -209,6 +219,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -223,6 +234,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -244,6 +256,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -258,6 +271,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -272,6 +286,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -293,6 +308,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -307,6 +323,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189209439,
                 "language": "Python",
                 "last_commit": "2026-01-29T08:27:05Z",
                 "owner": "gogcom",
@@ -321,8 +338,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:57:15.594Z",
+    "last_updated": "2026-08-19T12:34:52.963Z",
     "original_repository": "Mixaill/awesome-gog-galaxy",
+    "original_repository_id": 197759055,
     "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
     "enhanced_repository": "enhansome/enhansome-gog-galaxy",
     "enhanced_repository_description": null,
