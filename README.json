@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-20T15:22:44Z",
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
-                "stars": 1325
+                "stars": 1326
               }
             }
           ]
@@ -64,7 +64,7 @@
                 "last_commit": "2024-08-20T12:10:43Z",
                 "owner": "Slashbunny",
                 "repo": "gog-galaxy-plugin-downloader",
-                "stars": 280
+                "stars": 279
               }
             },
             {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:53:31.177Z",
+    "last_updated": "2026-08-23T06:53:55.631Z",
     "original_repository": "Mixaill/awesome-gog-galaxy",
     "original_repository_id": 197759055,
     "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
