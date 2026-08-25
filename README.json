@@ -17,7 +17,7 @@
                 "archived": false,
                 "id": 163598129,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:22:44Z",
+                "last_commit": "2026-08-25T06:56:55Z",
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
                 "stars": 1326
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:27.098Z",
+    "last_updated": "2026-08-25T07:00:52.376Z",
     "original_repository": "Mixaill/awesome-gog-galaxy",
     "original_repository_id": 197759055,
     "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
