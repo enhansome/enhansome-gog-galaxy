@@ -338,9 +338,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:01:24.082Z",
-    "original_repository": "Mixaill/awesome-gog-galaxy",
-    "original_repository_id": 197759055,
+    "last_updated": "2026-08-27T11:40:58.426Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 197759055,
+      "language": null,
+      "last_commit": "2023-11-23T23:31:51Z",
+      "owner": "Mixaill",
+      "repo": "awesome-gog-galaxy",
+      "stars": 1908
+    },
     "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
     "enhanced_repository": "enhansome/enhansome-gog-galaxy",
     "enhanced_repository_description": null,
