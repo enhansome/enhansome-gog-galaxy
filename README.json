@@ -17,11 +17,12 @@
                 "archived": false,
                 "id": 163598129,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:56:55Z",
+                "last_commit": "2026-08-28T15:05:50Z",
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
                 "stars": 1326
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "OlivierGagnon",
                 "repo": "GOG-Galaxy-2.0-Shortcut-Creator",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         },
@@ -65,7 +67,8 @@
                 "owner": "Slashbunny",
                 "repo": "gog-galaxy-plugin-downloader",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -80,7 +83,8 @@
                 "owner": "borger",
                 "repo": "scoop-galaxy-integrations",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         },
@@ -102,7 +106,8 @@
                 "owner": "AB1908",
                 "repo": "GOG-Galaxy-Export-Script",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         },
@@ -124,7 +129,8 @@
                 "owner": "eniklas",
                 "repo": "gamatrix",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         }
@@ -147,7 +153,8 @@
             "owner": "Yepoleb",
             "repo": "gogapidocs",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T18:32:31.643Z"
         },
         {
           "node_type": "group",
@@ -167,7 +174,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -182,7 +190,8 @@
                 "owner": "tylerbrawl",
                 "repo": "Galaxy-Utils",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         }
@@ -210,7 +219,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -225,7 +235,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -240,7 +251,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         },
@@ -262,7 +274,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -277,7 +290,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -292,7 +306,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         },
@@ -314,7 +329,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             },
             {
               "node_type": "item",
@@ -329,7 +345,8 @@
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T18:32:31.643Z"
             }
           ]
         }
@@ -338,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:34:28.469Z",
+    "last_updated": "2026-08-28T18:32:31.643Z",
     "original_repository_info": {
       "archived": false,
       "id": 197759055,
