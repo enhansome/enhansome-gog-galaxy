@@ -15,12 +15,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GOG client for Linux",
+                "homepage": "https://sharkwouter.github.io/minigalaxy/",
                 "id": 163598129,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:05:50Z",
+                "open_issues": 96,
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
-                "stars": 1326
+                "stars": 1325,
+                "topics": [
+                  "games",
+                  "gog",
+                  "gog-client",
+                  "hacktoberfest",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -38,12 +49,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GOG Galaxy 2.0 Shortcut Creator",
+                "homepage": null,
                 "id": 231852572,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-04-14T10:09:04Z",
+                "open_issues": 5,
                 "owner": "OlivierGagnon",
                 "repo": "GOG-Galaxy-2.0-Shortcut-Creator",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -61,12 +77,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Downloads and Updates GOG Galaxy 2.0 Plugins/Integrations",
+                "homepage": null,
                 "id": 213022221,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-20T12:10:43Z",
+                "open_issues": 1,
                 "owner": "Slashbunny",
                 "repo": "gog-galaxy-plugin-downloader",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "gog-galaxy",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -77,12 +101,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides an easy way to install, attach and update the GOG Galaxy 2 Integrations",
+                "homepage": null,
                 "id": 212009506,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-07-20T16:34:44Z",
+                "open_issues": 1,
                 "owner": "borger",
                 "repo": "scoop-galaxy-integrations",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "galaxy-integrations",
+                  "gog-galaxy",
+                  "scoop",
+                  "scoop-bucket",
+                  "steam",
+                  "uplay"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -100,12 +136,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export your list of games from GOG Galaxy",
+                "homepage": null,
                 "id": 253785344,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-23T23:29:27Z",
+                "open_issues": 7,
                 "owner": "AB1908",
                 "repo": "GOG-Galaxy-Export-Script",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "csv",
+                  "csv-export",
+                  "gog",
+                  "gog-galaxy"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -123,12 +169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect GOG DBs and report the games in common between them",
+                "homepage": null,
                 "id": 308808638,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-09T03:35:09Z",
+                "open_issues": 6,
                 "owner": "eniklas",
                 "repo": "gamatrix",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -147,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community created documentation of the GOG.com APIs",
+            "homepage": "https://gogapidocs.readthedocs.io",
             "id": 76056797,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2022-09-20T06:37:09Z",
+            "open_issues": 7,
             "owner": "Yepoleb",
             "repo": "gogapidocs",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:32:31.643Z"
         },
@@ -168,12 +224,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -184,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains some utilities that Galaxy 2.0 plugin developers may find useful.",
+                "homepage": null,
                 "id": 224289565,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-01T23:05:13Z",
+                "open_issues": 1,
                 "owner": "tylerbrawl",
                 "repo": "Galaxy-Utils",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -213,12 +281,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -229,12 +304,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -245,12 +327,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -268,12 +357,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -284,12 +380,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -300,12 +403,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -323,12 +433,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             },
@@ -339,12 +456,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the GALAXY Client shall be sent via GALAXY Client menu",
+                "homepage": null,
                 "id": 189209439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T08:27:05Z",
+                "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "galaxy-integrations"
+                ]
               },
               "first_seen": "2026-08-28T18:32:31.643Z"
             }
@@ -355,15 +479,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:32:31.643Z",
+    "last_updated": "2026-08-29T04:26:21.208Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
+      "homepage": null,
       "id": 197759055,
       "language": null,
+      "license": null,
       "last_commit": "2023-11-23T23:31:51Z",
+      "open_issues": 66,
       "owner": "Mixaill",
       "repo": "awesome-gog-galaxy",
-      "stars": 1908
+      "stars": 1908,
+      "topics": [
+        "galaxy",
+        "gog"
+      ]
     },
     "original_repository_sha": "4145acf4709d57ca9e01facdbc61711e7fe23625",
     "enhanced_repository": "enhansome/enhansome-gog-galaxy",
