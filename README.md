@@ -7,7 +7,7 @@
 ## Utilities
 
 * Alternative clients
-  * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,325 | 🐛 96 | 🌐 Python | 📅 2026-08-28 by @sharkwouter.
+  * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,325 | 🐛 95 | 🌐 Python | 📅 2026-08-30 by @sharkwouter.
 * Shortcut Creators
   * [GOG Galaxy 2.0 Shortcut Creator](https://github.com/Megalex42/GOG-Galaxy-2.0-Shortcut-Creator) ⭐ 28 | 🐛 5 | 🌐 C# | 📅 2020-04-14 by @Megalex42
 * Integration Updaters
@@ -209,4 +209,4 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
