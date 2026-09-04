@@ -26,7 +26,7 @@
 
 * Unofficial GOG.com API docs <https://github.com/Yepoleb/gogapidocs> ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2022-09-20
 * GOG Galaxy Integrations Python API
-  * Github repository <https://github.com/gogcom/galaxy-integrations-python-api> ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29
+  * Github repository <https://github.com/gogcom/galaxy-integrations-python-api> ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29
   * Galaxy Utils from @tylerbrawl <https://github.com/tylerbrawl/Galaxy-Utils> ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2020-01-01
   * PyPi package <https://pypi.org/project/galaxy.plugin.api/>
 * GOG Database <https://www.gogdb.org/>
@@ -34,17 +34,17 @@
 ## Galaxy 2.0 Upcoming features
 
 * Completed
-  * Integrations search and management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/20#issuecomment-511233784) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29, [2](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29, [3](https://www.resetera.com/threads/gog-galaxy-2-0-is-a-game-changer.139162/page-3#post-24918760))
-  * Adding tags from the API ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
-  * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29, [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
+  * Integrations search and management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/20#issuecomment-511233784) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29, [2](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29, [3](https://www.resetera.com/threads/gog-galaxy-2-0-is-a-game-changer.139162/page-3#post-24918760))
+  * Adding tags from the API ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
+  * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29, [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
   * Game deduplication ([1](https://www.reddit.com/r/gog/comments/d5gzld/i_hope_we_can_get_a_better_solution_for/f0m2cb9/))
 * In backlog / In progress
-  * Chat and friends list for integrations ([1](https://github.com/gogcom/galaxy-integrations-python-api/commit/223adf6a384c438552be697467c9495dc591c448#commitcomment-34429833) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
-  * DLC management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/23#issuecomment-512730026) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
-  * Secret achievements ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/63#issuecomment-532543083) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
+  * Chat and friends list for integrations ([1](https://github.com/gogcom/galaxy-integrations-python-api/commit/223adf6a384c438552be697467c9495dc591c448#commitcomment-34429833) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
+  * DLC management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/23#issuecomment-512730026) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
+  * Secret achievements ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/63#issuecomment-532543083) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
 * Will be considered
-  * Custom platforms ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/66#issuecomment-532571531) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
-  * Game language management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/8#issuecomment-510074658) ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
+  * Custom platforms ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/66#issuecomment-532571531) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
+  * Game language management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/8#issuecomment-510074658) ⭐ 1,338 | 🐛 65 | 🌐 Python | 📅 2026-01-29)
 
 ## Installation and Debugging
 
@@ -209,4 +209,4 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
