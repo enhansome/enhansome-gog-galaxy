@@ -7,12 +7,12 @@
 ## Utilities
 
 * Alternative clients
-  * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,327 | 🐛 96 | 🌐 Python | 📅 2026-09-05 by @sharkwouter.
+  * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,327 | 🐛 98 | 🌐 Python | 📅 2026-09-06 by @sharkwouter.
 * Shortcut Creators
   * [GOG Galaxy 2.0 Shortcut Creator](https://github.com/Megalex42/GOG-Galaxy-2.0-Shortcut-Creator) ⭐ 28 | 🐛 5 | 🌐 C# | 📅 2020-04-14 by @Megalex42
 * Integration Updaters
   * [GOG Integration Updater](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) ⭐ 279 | 🐛 1 | 🌐 Python | 📅 2024-08-20 by @Slashbunny
-  * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) ⭐ 184 | 🐛 1 | 🌐 PowerShell | 📅 2026-07-20 by @Borger
+  * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) ⭐ 184 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-05 by @Borger
 * Data import/export
   * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) ⭐ 171 | 🐛 7 | 🌐 Python | 📅 2022-12-23 by @AB1908
 * Library comparison
@@ -209,4 +209,4 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
