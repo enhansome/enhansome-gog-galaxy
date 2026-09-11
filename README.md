@@ -7,7 +7,7 @@
 ## Utilities
 
 * Alternative clients
-  * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,330 | 🐛 99 | 🌐 Python | 📅 2026-09-09 by @sharkwouter.
+  * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,329 | 🐛 99 | 🌐 Python | 📅 2026-09-09 by @sharkwouter.
 * Shortcut Creators
   * [GOG Galaxy 2.0 Shortcut Creator](https://github.com/Megalex42/GOG-Galaxy-2.0-Shortcut-Creator) ⭐ 28 | 🐛 5 | 🌐 C# | 📅 2020-04-14 by @Megalex42
 * Integration Updaters
@@ -24,7 +24,7 @@
 
 ## Resources
 
-* Unofficial GOG.com API docs <https://github.com/Yepoleb/gogapidocs> ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2022-09-20
+* Unofficial GOG.com API docs <https://github.com/Yepoleb/gogapidocs> ⭐ 63 | 🐛 7 | 🌐 Python | 📅 2022-09-20
 * GOG Galaxy Integrations Python API
   * Github repository <https://github.com/gogcom/galaxy-integrations-python-api> ⭐ 1,337 | 🐛 65 | 🌐 Python | 📅 2026-01-29
   * Galaxy Utils from @tylerbrawl <https://github.com/tylerbrawl/Galaxy-Utils> ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2020-01-01
@@ -209,4 +209,4 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
