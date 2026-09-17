@@ -24,7 +24,7 @@
                 "open_issues": 97,
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
-                "stars": 1331,
+                "stars": 1327,
                 "topics": [
                   "games",
                   "gog",
@@ -233,7 +233,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -290,7 +290,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -313,7 +313,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -336,7 +336,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -366,7 +366,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -389,7 +389,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -412,7 +412,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -442,7 +442,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -465,7 +465,7 @@
                 "open_issues": 65,
                 "owner": "gogcom",
                 "repo": "galaxy-integrations-python-api",
-                "stars": 1337,
+                "stars": 1339,
                 "topics": [
                   "galaxy-integrations"
                 ]
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:21:55.538Z",
+    "last_updated": "2026-09-17T11:29:43.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
@@ -491,7 +491,7 @@
       "open_issues": 66,
       "owner": "Mixaill",
       "repo": "awesome-gog-galaxy",
-      "stars": 1905,
+      "stars": 1906,
       "topics": [
         "galaxy",
         "gog"
