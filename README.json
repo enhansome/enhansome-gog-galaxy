@@ -20,11 +20,11 @@
                 "id": 163598129,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T13:01:13Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-28T10:47:00Z",
+                "open_issues": 97,
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
-                "stars": 1328,
+                "stars": 1327,
                 "topics": [
                   "games",
                   "gog",
@@ -86,7 +86,7 @@
                 "open_issues": 1,
                 "owner": "Slashbunny",
                 "repo": "gog-galaxy-plugin-downloader",
-                "stars": 281,
+                "stars": 280,
                 "topics": [
                   "gog-galaxy",
                   "python"
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T11:54:01.217Z",
+    "last_updated": "2026-09-28T13:41:03.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
