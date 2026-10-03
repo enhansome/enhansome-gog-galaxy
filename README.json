@@ -194,7 +194,7 @@
         {
           "node_type": "item",
           "title": "Unofficial GOG.com API docs https://github.com/Yepoleb/gogapidocs",
-          "description": null,
+          "description": "Yepoleb/gogapidocs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,7 +220,7 @@
             {
               "node_type": "item",
               "title": "Github repository https://github.com/gogcom/galaxy-integrations-python-api",
-              "description": null,
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -243,7 +243,7 @@
             {
               "node_type": "item",
               "title": "Galaxy Utils from @tylerbrawl https://github.com/tylerbrawl/Galaxy-Utils",
-              "description": null,
+              "description": "tylerbrawl/Galaxy-Utils",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -277,7 +277,7 @@
             {
               "node_type": "item",
               "title": "Integrations search and management (1",
-              "description": ", 2, 3)",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -300,7 +300,7 @@
             {
               "node_type": "item",
               "title": "Adding tags from the API (1",
-              "description": ")",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -323,7 +323,7 @@
             {
               "node_type": "item",
               "title": "Parametrized game launch (1",
-              "description": ", 2)",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,7 +353,7 @@
             {
               "node_type": "item",
               "title": "Chat and friends list for integrations (1",
-              "description": ")",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "DLC management (1",
-              "description": ")",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,7 +399,7 @@
             {
               "node_type": "item",
               "title": "Secret achievements (1",
-              "description": ")",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -429,7 +429,7 @@
             {
               "node_type": "item",
               "title": "Custom platforms (1",
-              "description": ")",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "Game language management (1",
-              "description": ")",
+              "description": "gogcom/galaxy-integrations-python-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:21:55.350Z",
+    "last_updated": "2026-10-03T04:46:17.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
