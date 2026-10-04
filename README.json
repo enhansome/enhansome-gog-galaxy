@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:32:08.549Z",
+    "last_updated": "2026-10-04T12:14:14.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
@@ -491,7 +491,7 @@
       "open_issues": 66,
       "owner": "Mixaill",
       "repo": "awesome-gog-galaxy",
-      "stars": 1906,
+      "stars": 1905,
       "topics": [
         "galaxy",
         "gog"
