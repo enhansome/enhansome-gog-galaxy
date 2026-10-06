@@ -24,7 +24,7 @@
                 "open_issues": 97,
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
-                "stars": 1327,
+                "stars": 1328,
                 "topics": [
                   "games",
                   "gog",
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:24:01.635Z",
+    "last_updated": "2026-10-06T10:31:40.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
