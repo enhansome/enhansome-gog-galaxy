@@ -20,8 +20,8 @@
                 "id": 163598129,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T08:10:51Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-16T07:42:38Z",
+                "open_issues": 93,
                 "owner": "sharkwouter",
                 "repo": "minigalaxy",
                 "stars": 1333,
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:17:44.107Z",
+    "last_updated": "2026-10-16T11:12:24.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
@@ -491,7 +491,7 @@
       "open_issues": 66,
       "owner": "Mixaill",
       "repo": "awesome-gog-galaxy",
-      "stars": 1905,
+      "stars": 1906,
       "topics": [
         "galaxy",
         "gog"
