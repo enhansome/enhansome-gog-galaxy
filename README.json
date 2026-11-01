@@ -144,7 +144,7 @@
                 "open_issues": 7,
                 "owner": "AB1908",
                 "repo": "GOG-Galaxy-Export-Script",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "csv",
                   "csv-export",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T12:09:20.830Z",
+    "last_updated": "2026-11-01T13:08:52.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",

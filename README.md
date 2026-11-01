@@ -14,7 +14,7 @@
   * [GOG Integration Updater](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) ⭐ 279 | 🐛 1 | 🌐 Python | 📅 2024-08-20 by @Slashbunny
   * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) ⭐ 186 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-05 by @Borger
 * Data import/export
-  * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) ⭐ 171 | 🐛 7 | 🌐 Python | 📅 2022-12-23 by @AB1908
+  * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) ⭐ 172 | 🐛 7 | 🌐 Python | 📅 2022-12-23 by @AB1908
 * Library comparison
   * [GOG Galaxy Library Compare (gamatrix-gog)](https://github.com/eniklas/gamatrix-gog) ⭐ 14 | 🐛 6 | 🌐 Python | 📅 2026-08-09 by @eniklas
 
@@ -209,4 +209,4 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
