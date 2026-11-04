@@ -85,7 +85,7 @@
                 "open_issues": 1,
                 "owner": "Slashbunny",
                 "repo": "gog-galaxy-plugin-downloader",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "gog-galaxy",
                   "python"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:00:16.850Z",
+    "last_updated": "2026-11-04T14:17:25.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
@@ -490,7 +490,7 @@
       "open_issues": 66,
       "owner": "Mixaill",
       "repo": "awesome-gog-galaxy",
-      "stars": 1904,
+      "stars": 1905,
       "topics": [
         "galaxy",
         "gog"
