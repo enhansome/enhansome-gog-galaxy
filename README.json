@@ -173,8 +173,8 @@
                 "id": 308808638,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-11T04:29:54Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-15T23:55:39Z",
+                "open_issues": 5,
                 "owner": "eniklas",
                 "repo": "gamatrix",
                 "stars": 14,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T13:49:41.481Z",
+    "last_updated": "2026-11-16T15:32:33.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
