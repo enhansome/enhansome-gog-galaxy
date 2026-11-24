@@ -16,7 +16,7 @@
 * Data import/export
   * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) ⭐ 173 | 🐛 7 | 🌐 Python | 📅 2022-12-23 by @AB1908
 * Library comparison
-  * [GOG Galaxy Library Compare (gamatrix-gog)](https://github.com/eniklas/gamatrix-gog) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2026-11-17 by @eniklas
+  * [GOG Galaxy Library Compare (gamatrix-gog)](https://github.com/eniklas/gamatrix-gog) ⭐ 14 | 🐛 5 | 🌐 Python | 📅 2026-11-17 by @eniklas
 
 ## Skins
 
@@ -209,4 +209,4 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
